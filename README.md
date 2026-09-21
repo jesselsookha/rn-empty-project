@@ -186,6 +186,3 @@ Both scripts are designed to help you quickly create a personalised copy of the 
 - You may either **manually edit** the configuration files or use the **automation scripts** to personalise your project.  
 - Once configured, install dependencies and begin coding.  
 - Always update the README to reflect your own work.
-```
-
----
